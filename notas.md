@@ -20,3 +20,6 @@ Cual es el porcentaje de CPU usado en los ultimos 5 minutos        PromQL: rate(
 Cuantos errores 500 ha tenido mi sistema                            PromQL: http_requests_total{status="500"}
 "
 de consola a vs code
+### Laboratorio Practico Exporter en Python
+* prometheus_client: Libreria de Python utilizada para exponer un endpoint de metricas en formato Prometheus.
+* Endpoint /metrics: Punto de acceso HTTP en el puerto 8000 donde Prometheus realiza el raspado Pull de los datos....
