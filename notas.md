@@ -25,3 +25,7 @@ de consola a vs code
 * Endpoint /metrics: Punto de acceso HTTP en el puerto 8000 donde Prometheus realiza el raspado Pull de los datos....
 
 de consola a vs code
+
+### Simulación de Mantenimiento Predictivo
+* Analisis de Tendencia: Evaluacion del historial de lecturas (Series Temporales) para detectar patrones de crecimiento anormall.
+* Deteccion Preventiva: Emision de alertas dinamicas antes de que el recurso alcance un limite critico (100%), evitando caidas de servicio.
