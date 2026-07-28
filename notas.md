@@ -19,3 +19,4 @@ Cual es el porcentaje de CPU usado en los ultimos 5 minutos        PromQL: rate(
 
 Cuantos errores 500 ha tenido mi sistema                            PromQL: http_requests_total{status="500"}
 "
+de consola a vs code
