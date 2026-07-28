@@ -23,3 +23,5 @@ de consola a vs code
 ### Laboratorio Practico Exporter en Python
 * prometheus_client: Libreria de Python utilizada para exponer un endpoint de metricas en formato Prometheus.
 * Endpoint /metrics: Punto de acceso HTTP en el puerto 8000 donde Prometheus realiza el raspado Pull de los datos....
+
+de consola a vs code
