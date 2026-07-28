@@ -38,3 +38,5 @@ Comando: git push
 COMANDO DE APOYO
 
 git status: Te muestra en pantalla si hay archivos modificados pendientes por guardar o enviar.
+
+
